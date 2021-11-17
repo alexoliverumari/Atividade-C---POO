@@ -11,5 +11,4 @@ int main()
     area = largura*cumprimento; 
     printf("A area do terreno é %.1f metros", area);
     return 0;
-
 }
