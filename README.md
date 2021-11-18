@@ -24,7 +24,9 @@ Questões:
     Com base nestes fatos, faça um algoritmo para ler as quantidades de pães e de broas, 
     e depois calcular os dados solicitados.
     
-    
+
+
+
 Alex Lima de Oliveira
  
 Programação Orientada a Objetos - Prof. Alex Lacerda Ramos
