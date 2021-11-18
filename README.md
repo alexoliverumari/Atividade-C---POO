@@ -25,7 +25,10 @@ Questões:
     e depois calcular os dados solicitados.
     
     
- Alex Lima de Oliveira
- Programação Orientada a Objetos - Prof. Alex Lacerda Ramos
- Técnico em Informática (S2)
- IFCE - Campus Canindé
+Alex Lima de Oliveira
+ 
+Programação Orientada a Objetos - Prof. Alex Lacerda Ramos
+ 
+Técnico em Informática (S2)
+ 
+IFCE - Campus Canindé
