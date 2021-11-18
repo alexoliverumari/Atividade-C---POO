@@ -1,6 +1,5 @@
 #include<stdio.h>
 
-
 int main()
 {
     float  base_maior, base_menor, altura, area;
@@ -13,5 +12,4 @@ int main()
     area = ((base_maior + base_menor) * altura) / 2; 
     printf("A area do trapézio é de %.1f centimetros", area);
     return 0;
-
 }
